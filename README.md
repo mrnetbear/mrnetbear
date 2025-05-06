@@ -24,7 +24,7 @@ I'm a developer in c/c++, who is trying to improve skills in coding by creating 
 
 ## 📌 Chosen projects
 
-- **[Algorythms](https://github.com/mrnetbear/Alg-progs)** – Some projects for my algorytm and data structure classes.  
+- **[Algorythms](https://github.com/mrnetbear/Alg-progs)** – Some projects for my algorythms and data structure classes.  
 - **[Last Contest](https://github.com/mrnetbear/yadro_test)** – Contest for student position in YADRO.  
 - **[Scientific works](https://github.com/mrnetbear/macros)** – Some scientific stuff for institute and university problems.  
 
