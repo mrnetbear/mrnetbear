@@ -1,4 +1,4 @@
-# 🚀 Hello there^ I'm Alexey aka mrnetbear! 👋
+# 🚀 Hello there! I'm Alexey aka mrnetbear! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/mrnetbear?style=social)](https://github.com/mrnetbear)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mrnetbear.mrnetbear)](https://github.com/mrnetbear)
