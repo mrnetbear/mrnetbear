@@ -19,8 +19,8 @@ I'm a developer in c/c++, who is trying to improve skills in coding by creating 
 
 ## 📊 GitHub statistics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnetbear&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnetbear&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnetbear&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnetbear&layout=compact&theme=radical)
 
 ## 📌 Chosen projects
 
