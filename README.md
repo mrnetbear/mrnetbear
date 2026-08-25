@@ -1,11 +1,11 @@
-# 🚀 Hello there! I'm Alexey aka mrnetbear! 👋
+# Hello there! I'm Alexey aka mrnetbear!
 
 [![GitHub followers](https://img.shields.io/github/followers/mrnetbear?style=social)](https://github.com/mrnetbear)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mrnetbear.mrnetbear)](https://github.com/mrnetbear)
 
 I'm a developer in c/c++, who is trying to improve skills in coding by creating applications that interested in and some more software for work and university.
 
-## 🔧 Technologies and tools  
+## Technologies and tools  
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -17,22 +17,10 @@ I'm a developer in c/c++, who is trying to improve skills in coding by creating 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-## 📊 GitHub statistics  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnetbear&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnetbear&layout=compact&theme=radical)
-
-## 📌 Chosen projects
-
-- **[Algorythms](https://github.com/mrnetbear/Alg-progs)** – Some projects for my algorythms and data structure classes.  
-- **[Last Contest](https://github.com/mrnetbear/yadro_test)** – Contest for student position in YADRO.  
-- **[Scientific works](https://github.com/mrnetbear/macros)** – Some scientific stuff for institute and university problems.  
-
-## 📫 Contacts  
+## Contacts  
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/mrnetlex)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:akonotop03@mail.ru)
 
 ---
-
-⭐ Thanks for visiting! Be glad to future collaborations and interesting projects.  
+Thanks for visiting! Be glad to future collaborations and interesting projects.  
